@@ -11,7 +11,8 @@ A virtual environment is not necessary for this app because it uses no special p
 
 To install Django you can simply use the pip installation. From your terminal/cmd, change directories to the location of your Python installation and run the command:
 
-`python -m pip install Django==4.0.4 #might be "python3" instead of "python" on Linux` 
+`python -m pip install Django==4.0.4` 
+It might be "python3" instead of "python" on Linux
 
 Check your Django version with:
 
