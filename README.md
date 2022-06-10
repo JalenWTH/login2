@@ -42,6 +42,7 @@ You will need to create a "templates" directory and a "static" directory in your
 
 ```
 project
+  manage.py
   projectname
     settings.py
     urls.py
